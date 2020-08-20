@@ -1,6 +1,5 @@
-## INF 552 Homework 7
-
-In this homework, we will focus on 2 problems. In the first problem, we are trying to build a generative model to mimic the writing style of prominent British Mathematician, Philosopher, prolific writer, and political activist, Bertrand Russell.
+## Generative Text
+In the problem, we are trying to build a generative model to mimic the writing style of prominent British Mathematician, Philosopher, prolific writer, and political activist, Bertrand Russell.
 
 The text materials will be used include:
 
@@ -10,11 +9,7 @@ Mysticism and Logic and Other Essays
 Our Knowledge of the External World as a Field for Scientific Method in Philosophy
 The Analysis of Matter
 
-
-The second problem, we will use a convolutional neural network for image colorization which turns a grayscale image to a colored image.
-
 ## Requirment
-This homework requires is constructed on Google Colab. <br/>
 `jupyter notebook`
 `pandas`
 `numpy`
@@ -26,7 +21,6 @@ This homework requires is constructed on Google Colab. <br/>
 `pickle`
 `tensorflow`
 `keras`
-`cv2`
 
 
 ## Acknowledgement
